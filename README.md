@@ -14,4 +14,3 @@ echo "Dúvidas? Entre em contato através do GitHub ou pelo e-mail institucional
 git add README.md
 git commit -m "Adicionando README com descrição do projeto"
 git push origin main
-
